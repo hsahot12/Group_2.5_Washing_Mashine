@@ -10,22 +10,10 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="icte.cph.aau.group25washingmashine.MainActivity">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="FUCKING HURTIG, Nu er det kun Harjit der er slow" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="FUCKING HURTIG, Nu er det kun Harjit der er slow" />
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="FUCKING HURTIG, Nu er det kun Harjit der er slow" />
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="FUCKING HURTIG, Nu er det kun Harjit der er slow" />
+        android:text="this is a test" />
 
 </LinearLayout>
