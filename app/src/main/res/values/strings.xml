@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Group 2.5 Washing Mashine</string>
+
+    <!-- Auth0 -->
+    <string name="auth0_client_id">RDNkCwIHvq0tLZPFopQcOjEbq2DXFg1j</string>
+    <string name="auth0_client_secrect">UjHhrHaBI3h9ft8oPz23ueXLlFGN8i3fKo753N9dUBo4Sp_Y469QSNsSmnqkNXp0</string>
+
+    <!-- Facebook -->
+    <string name="facebook_app_id">584938658336297</string>
+
 </resources>
